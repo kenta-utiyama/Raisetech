@@ -1,24 +1,24 @@
 ## 第3回課題
 - サンプルアプリケーションの起動
-![サンプルアプリケーション](/home/ec2-user/enviroment/Raisetech/img/sample_ap.png)
+![サンプルアプリケーション](https://github.com/kenta-utiyama/Raisetech/blob/lecture03-1/img/sample_ap.PNG)
 
 - APサーバについて
   - 名前:puma
   - バージョン:5.6.5
-![APサーバーバージョン](/home/ec2-user/enviroment/Raisetech/img/apsv_ver.png)
+![APサーバーバージョン](https://github.com/kenta-utiyama/Raisetech/blob/lecture03-1/img/apsv_ver.PNG)
 
 - APサーバ終了時、引き続きアクセス出来るか
   - アクセス不可
-![APサーバアクセス不可](/home/ec2-user/enviroment/Raisetech/img/apsv_stop.png)
+![APサーバアクセス不可](https://github.com/kenta-utiyama/Raisetech/blob/lecture03-1/img/apsv_stop.PNG)
 
 - DBサーバについて
   - 名前：mysql
   - バージョン：8.0.34
-![DBサーバーバージョン](/home/ec2-user/enviroment/Raisetech/img/dbsv_ver.png)
+![DBサーバーバージョン](https://github.com/kenta-utiyama/Raisetech/blob/lecture03-1/img/dbsv_ver.PNG)
 
 - DBサーバ終了時、引き続きアクセス出来るか
   - アクセス不可
-![DBサーバアクセス不可](/home/ec2-user/enviroment/Raisetech/img/dbsv_stop.png)
+![DBサーバアクセス不可](https://github.com/kenta-utiyama/Raisetech/blob/lecture03-1/img/dbsv_stop.PNG)
 
 - Railsの構成管理ツールの名前は？
   - Bundle
