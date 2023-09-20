@@ -1,28 +1,27 @@
 ## 第4回課題
 - VPCの作成
 
-![VPC](https://github.com/kenta-utiyama/Raisetech/blob/lecture04/img4/vpc.PNG)
+![VPC](./img4/vpc.PNG)
 
 - セキュリティグループの設定
-  - インバウンド
 
-![インバウンド](https://github.com/kenta-utiyama/Raisetech/blob/lecture04/img4/securitygroupin.PNG)
+![セキュリティグループ](./img4/securitygroup.PNG)
 
- - アウトバウンド
+- サブネットグループの設定
 
-![アウトバウンド](https://github.com/kenta-utiyama/Raisetech/blob/lecture04/img4/securitygroupout.PNG)
+![サブネットグループ](./img4/subnetgroup.PNG)
 
 - EC2インスタンスへSSH接続
 
-![EC2への接続確認](https://github.com/kenta-utiyama/Raisetech/blob/lecture04/img4/EC2_kakunin.PNG)
+![EC2への接続確認](./img4/EC2_kakunin.PNG)
 
 - RDSの作成
 
-![RDS](https://github.com/kenta-utiyama/Raisetech/blob/lecture04/img4/rds.PNG)
+![RDS](./img4/rds.PNG)
 
 - EC2からRDSへの接続
 
-![EC2からRDS](https://github.com/kenta-utiyama/Raisetech/blob/lecture04/img4/RDS_kakunin.PNG)
+![EC2からRDS](./img4/RDS_kakunin.PNG)
 
 ### 感想
 コンソールからSSH接続を行うのに、権限問題やキーペアの配置で時間がかかりました。
