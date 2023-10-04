@@ -7,6 +7,12 @@
 
 ![セキュリティグループ](./img4/securitygroup.PNG)
 
+
+![セキュリティグループRDS1](./img4/rds_securitygroup.PNG)
+
+
+![セキュリティグループRDS2](./img4/rds_securitygroup2.PNG)
+
 - サブネットグループの設定
 
 ![サブネットグループ](./img4/subnetgroup.PNG)
